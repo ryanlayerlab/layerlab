@@ -6,8 +6,7 @@ categories:
 comments: true
 ---
 
-I have been teaching Software Engineering for Scientists at CU Boulder since
-2019. I started this class to address the glut of terrible open-source science
+I have been teaching Software Engineering for Scientists at CU Boulder since 2019. I started this class to address the glut of terrible open-source science
 software that I thought was partly our (CS faculty) fault. After spending a lot
 of time thinking about how to make our major more diverse and more accessible,
 most departments landed on the idea that we must make our first class, usually
