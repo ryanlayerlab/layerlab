@@ -7,38 +7,49 @@ comments: true
 ---
 
 I have been teaching Software Engineering for Scientists at CU Boulder since 2019. I started this class to address the glut of terrible open-source science
-software that I thought was partly our (CS faculty) fault. After spending a lot
-of time thinking about how to make our major more diverse and more accessible,
-most departments landed on the idea that we must make our first class, usually
-a language class, more accessible. Motivated by the idea that anyone can learn
-to code, we made our intro classes so welcoming that now (or at least in the
-very recent past) their enrollment was mostly non-CS majors. While trying to
-broaden our appeal, we were also teaching a wide range of scientists how to
-code. They took those skills back to their labs to hopefully boost their
-impactful research using larger data sets, more simulations, etc. But we did
-not teach students how to successfully build anything. The fundamental practice
-of writing software was not obtainable for most students because it was
-informally trickled out across many different classes and formally locked away
-in upper-level classes with too many prerequisites to be practical for anyone
-but a CS major. My thought was that if we wanted more robust and reproducible
-science, we must teach the practice of creating robust and reproducible
-software. I view the class as a skills course that took the essential
-components of industrial software engineering and scaled them to the academic
-environment, stressing best practices like version control, modularity,
-testing, and code reviews. And it was such a fun class to teach. We had
-trainees from dozens of different majors (biochem to astrophysics) at all
-levels of their careers (undergrads to postdocs). It culminated in final
-projects driven by the students tackling their own personal research. I was
-always so impressed and inspired by the work they were doing. Every year I
-would freshen up the class with new technologies. For example, last fall I
-added a week on AI code assistants and agents. Then the apparent AI-agent
-capabilities quantum leap happened (is happening?) and it was clear that
-teaching the class as I had been would be like teaching the history of software
-engineering instead of its practice.
+software that I thought was partly our (CS faculty) fault.
 
-So what do I teach now? I think you have to start with what has not changed.
+After spending a lot of time thinking about how to make our major more diverse
+and more accessible, most departments landed on the idea that we must make our
+first class, usually a language class, more accessible. Motivated by the idea
+that anyone can learn to code, we made our intro classes so welcoming that now
+(or at least in the very recent past) their enrollment was mostly non-CS
+majors.While trying to broaden our appeal, we were also teaching a wide range
+of scientists how to code. They took those skills back to their labs to
+hopefully boost their impactful research using larger data sets, more
+simulations, etc.
+
+Unfortunately, we did not teach students how to successfully build anything.
+The fundamental practice of writing software was not obtainable for most
+students because it was informally trickled out across many different classes
+and formally locked away in upper-level classes with too many prerequisites to
+be practical for anyone but a CS major.
+
+My thought was that if we wanted more robust and reproducible science, we must
+teach the practice of creating robust and reproducible software. I view the
+class as a skills course that took the essential components of industrial
+software engineering and scaled them to the academic environment, stressing
+best practices like version control, modularity, testing, and code reviews.
+
+It was such a fun class to teach. We had trainees from dozens of different
+majors (biochem to astrophysics) at all levels of their careers (undergrads to
+postdocs). It culminated in final projects driven by the students tackling
+their own personal research. I was always so impressed and inspired by the work
+they were doing. Every year I would freshen up the class with new technologies.
+For example, last fall I added a week on AI code assistants and agents.
+
+Then the apparent AI-agent capabilities quantum leap happened (is happening?)
+and it was clear that teaching the class as I had been would be like teaching
+the history of software engineering instead of its practice.
+
+So what do I teach now?
+
+I think you have to start with what has not changed.
+
 Scientific software exists to produce results that other scientists can verify,
-reproduce, and build on. That is not new. It is the whole point of science and
+reproduce, and build on.
+
+That is not new. It is the whole point of science and
 it does not change just because we now have LLMs writing code for us. If
 anything, the bar is higher now. I used to think that hard-coded paths and
 undocumented dependencies and data files were our major reproducibility
