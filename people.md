@@ -24,27 +24,28 @@ permalink: /people/
 
 ## Alumni
 
-![Mahmood](/assets/people/mahmood.jpg){:height="100px"} Mahmood Javaid, Software Engineer. Now at Pfizer.
+![Mahmood](/assets/people/mahmood.jpg){:height="100px"} Mahmood Javaid, Software Engineer. Senior Software Engineer at GeneDX.
 
 ![Sky](/assets/people/sky_martin.jpg){:height="100px"} Sky Martin, CS student. Now at Harvard TH Chan School of Public Health.
 
-![Zach](/assets/people/zach_mcgrath.jpg){:height="100px"} Zach Mcgrath, CS MS student. Now Invitae.
+![Zach](/assets/people/zach_mcgrath.jpg){:height="100px"} Zach Mcgrath, CS MS student. Now Software Engineer at Invitae.
 
-![Ari](/assets/people/ari.jpg){:height="100px"} Arianna McCarty, Undergraduate
+![Ari](/assets/people/ari.jpg){:height="100px"} Arianna McCarty, ChBE BS. 
 
-![Christopher](/assets/people/christopher.jpg){:height="100px"} Christopher Ebuka Ojukwu, CS PhD 
+![Christopher](/assets/people/christopher.jpg){:height="100px"} Christopher Ebuka Ojukwu, CS PhD.
 
-![Devin](/assets/people/devin_burke.jpg){:height="100px"} Devin Burke, CS MS
+![Devin](/assets/people/devin_burke.jpg){:height="100px"} Devin Burke, CS MS. Senior Bioinformatics Engineer at RefinedScience.
 
-![Kieran Zylstra](/assets/people/kieran.jpg){:height="100px"} Kieran Zylstra, Staff Scientst
+![Kieran Zylstra](/assets/people/kieran.jpg){:height="100px"} Kieran Zylstra, Staff Scientst. Software Engineer 2 at LGS Innovations.
 
-![Kristen](/assets/people/kristen_schneider.jpg){:height="100px"} Kristen Schneider, CS PhD, IQ Biology
+![Kristen](/assets/people/kristen_schneider.jpg){:height="100px"} Kristen Schneider, CS PhD, IQ Biology. Bioinformatics Scientist at Tempus AI.
 
-![Michael](/assets/people/michael_bradshaw.jpg){:height="100px"} Michael Bradshaw, CS PhD
+![Michael](/assets/people/michael_bradshaw.jpg){:height="100px"} Michael Bradshaw, CS PhD. Scientist at SmarterDx.
 
+![Sagar](/assets/people/sagar.jpg){:height="100px"} Sagar Pathare, CS MS. Sr. Software Engineer II at Lucid Software.
 
-![Sagar](/assets/people/sagar.jpg){:height="100px"} Sagar Pathare, CS MS
+![Kevin](/assets/people/jeff.jpg){:height="100px"} Kevin Gorman, Summer internt (JHU CS).
 
-![Kevin](/assets/people/jeff.jpg){:height="100px"} Kevin Gorman, CS student (JHU)
+![Nate](/assets/people/nate_collins.jpg){:height="100px"} Nate Collins, CS BS.
 
-![Nate](/assets/people/nate_collins.jpg){:height="100px"} Nate Collins, Undergraduate
+![Jishnu](/assets/people/jeff.jpg){:height="100px"} Jishnu Raychaudhuri, CS BS. Now MS at University of California San Diego.
